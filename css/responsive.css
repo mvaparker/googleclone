@@ -1,0 +1,6 @@
+@media all and (max-width: 1200px) {
+    #footer-links {
+        justify-content: space-evenly;
+        
+    }
+}

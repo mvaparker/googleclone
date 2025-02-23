@@ -1,0 +1,1 @@
+alert("images and desgins layouts are copyright to the respective owners.");
